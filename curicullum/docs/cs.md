@@ -1,4 +1,4 @@
-# B-Tech
+# B-Tech(Computer Science Engineering)
 ## 1st year
 ### 2nd Semester
 ### Subjects:
